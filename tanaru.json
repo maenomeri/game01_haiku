@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "name": "クリッククリア",
+    "description": "同じ色のグループをクリックして消そう！",
+    "tools": ["Claude Code", "Haiku"],
+    "tags": ["ゲーム"]
+}
